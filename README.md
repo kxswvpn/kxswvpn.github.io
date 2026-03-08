@@ -54,14 +54,6 @@
 | **即时通讯** | Telegram | 电报、纸飞机、TG 官方入口 |
 | **顶级流媒体** | Netflix / Disney+ | 4K 蓝光影剧视听盛宴 |
 
----
-
-## 🛒 必备账号获取
-
-如果您缺少平台账号，可以通过以下经过验证的第三方入口获取：
-
-* ⚠️ **基础账号购买：** [Telegram, Gmail, ChatGPT, Twitter 账号](https://xiaohuojian8.com/aff/5655.html)
-* ⚠️ **流媒体合租：** [Netflix, Disney+, HBO 会员账号](https://yhlx.pages.dev/)
 
 ---
 
