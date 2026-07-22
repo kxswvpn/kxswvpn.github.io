@@ -25,7 +25,7 @@
 * **全平台客户端：** 提供 Windows, macOS, Android, iOS 专属一键客户端。
 
 
-* **立即体验：** [🔗 获取 Anycast 访问权限](https://ip.harmonylink.net/share/k4y20r)
+* **立即体验：** [🔗 获取 Anycast 访问权限](https://ip.harmonylink.net/share/6q5m8q)
 
 ### 方案 B：CokeCloud (高性价比 · 社交达人)
 
